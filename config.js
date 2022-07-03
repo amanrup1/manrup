@@ -21,7 +21,7 @@ global.botname = 'introvert -Project'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6281391486982'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.footer = 'I n t r o v e r t - MD'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'introvert' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
