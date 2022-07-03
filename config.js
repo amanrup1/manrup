@@ -10,7 +10,7 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6281391486982']
+global.owner = ['6281391486982', '62882015146699']
 global.pengguna = 'introvert'
 global.premium = ['6281391486982']
 global.author = 'introvert'
